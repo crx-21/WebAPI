@@ -1,0 +1,25 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "WebAPI, for Web Programming in Year 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crx-21/WebAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/crx-21/WebAPI/issues"
+  },
+  "homepage": "https://github.com/crx-21/WebAPI#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.1",
+    "express": "^5.3.0"
+  }
+}
