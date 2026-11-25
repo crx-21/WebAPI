@@ -2,9 +2,10 @@
   "name": "webapi",
   "version": "1.0.0",
   "description": "WebAPI, for Web Programming in Year 3",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "node --watch server.js"
   },
   "repository": {
     "type": "git",
